@@ -13,6 +13,8 @@ class FriendController extends Controller
     public function index()
     {
     	$friends = Auth::user()->friends();
-    	return view('friends.index')->with('friends', $friends);
+    	$requests = Auth::user()->friendRequests();
+    	return view('friends.index')->with('friends', $friends)
+    								->with('requests', $requests);
     }
 }
