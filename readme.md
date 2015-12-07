@@ -2,4 +2,4 @@
 V!VE is simple social media web application based on Laravel 5.1 
 
 ### License
-No copyright, no licensing, nothing...  I love this stuff and when i see a challange somehere i tent to take it... and redistribute my to the public to use it as they please.
+No copyright, no licensing, nothing...  I love this stuff and when i see a challange somewhere i tent to take it... and redistribute my take on the challange to the public to use it as they please. 
